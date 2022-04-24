@@ -1,0 +1,13 @@
+C:\Repository\challenge-FT\bin\Debug\netcoreapp3.1\challenge-FT.exe
+C:\Repository\challenge-FT\bin\Debug\netcoreapp3.1\challenge-FT.deps.json
+C:\Repository\challenge-FT\bin\Debug\netcoreapp3.1\challenge-FT.runtimeconfig.json
+C:\Repository\challenge-FT\bin\Debug\netcoreapp3.1\challenge-FT.runtimeconfig.dev.json
+C:\Repository\challenge-FT\bin\Debug\netcoreapp3.1\challenge-FT.dll
+C:\Repository\challenge-FT\bin\Debug\netcoreapp3.1\challenge-FT.pdb
+C:\Repository\challenge-FT\obj\Debug\netcoreapp3.1\challenge-FT.csprojAssemblyReference.cache
+C:\Repository\challenge-FT\obj\Debug\netcoreapp3.1\challenge-FT.AssemblyInfoInputs.cache
+C:\Repository\challenge-FT\obj\Debug\netcoreapp3.1\challenge-FT.AssemblyInfo.cs
+C:\Repository\challenge-FT\obj\Debug\netcoreapp3.1\challenge-FT.csproj.CoreCompileInputs.cache
+C:\Repository\challenge-FT\obj\Debug\netcoreapp3.1\challenge-FT.dll
+C:\Repository\challenge-FT\obj\Debug\netcoreapp3.1\challenge-FT.pdb
+C:\Repository\challenge-FT\obj\Debug\netcoreapp3.1\challenge-FT.genruntimeconfig.cache
