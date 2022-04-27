@@ -6,7 +6,8 @@
 
     Example test and compare with that calculator,
     Calculator
-    ![imagen](https://user-images.githubusercontent.com/59982584/165415117-06eb7100-8586-4848-bc49-96d41496a202.png)
+    ![imagen](https://user-images.githubusercontent.com/59982584/165415223-e7a72e62-e781-4c95-8d60-25dc6fb781f0.png)
+
     App
    ![imagen](https://user-images.githubusercontent.com/59982584/165415138-40abea11-a3db-4411-9083-521a17466d4a.png)
 
